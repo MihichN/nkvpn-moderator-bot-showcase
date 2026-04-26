@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+coverage/
+logs/
+*.log
+*.pem
+*.key
+secrets.json
+.DS_Store
+.idea/
+.vscode/
